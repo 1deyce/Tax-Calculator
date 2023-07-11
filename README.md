@@ -1,2 +1,2 @@
 # Tax-Calculator
- Income tax calculator for SARS
+Income tax calculator for SARS (Java).
